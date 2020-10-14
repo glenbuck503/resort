@@ -1,6 +1,41 @@
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 500px;
+h1 {
+  color:#9c85e6;
+  text-align: center;
+  font-weight: 700;
+}
+
+body {
+  background-color: #02f543;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+  font-weight: 100;
+}
+
+h3 {
+  color:#e69b73;
+  
+}
+
+h1 {
+  color:#f1f516;
+}
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 70px;
+}
+
+p {
+  font-size: 40px;
+  font-weight: 500;
+  
+  
+  
+
 }
